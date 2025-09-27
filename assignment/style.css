@@ -1,0 +1,28 @@
+*{
+  
+}
+
+.bgColor{
+    background-color: #edf1f7;
+    border: 1px #7d7e82 ;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  .image{
+    gap: 4px;
+  }
+
+  .bgNevi{
+    background-color: rgb(4, 4, 57);
+  }
+  .choose{
+    padding: 25px 0;
+  }
+  footer{
+     background-color: rgb(4, 4, 57);
+   padding-bottom: 5px;
+  }
+  .yeallo{
+    background-color: rgb(247, 243, 238);
+    border-radius: 2px;
+  }
